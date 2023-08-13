@@ -30,7 +30,7 @@ params:
   specialPages:
     - work
     - archive
-  bypassWelcomePage: true
+  bypassWelcomePage: false
   disableRadius: true
   moveIt: false  # Moves Title and Meta info down, only visible when scroll.
   disableAlwaysResize: false

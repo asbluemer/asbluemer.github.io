@@ -27,10 +27,11 @@ params:
       landing: true
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/asteffib'
+  homepage: /work
   specialPages:
     - work
     - archive
-  bypassWelcomePage: false
+  bypassWelcomePage: true
   disableRadius: true
   moveIt: false  # Moves Title and Meta info down, only visible when scroll.
   disableAlwaysResize: false

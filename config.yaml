@@ -1,0 +1,66 @@
+baseURL: https://www.lights-and-pause.de
+title: Lights And Pause
+defaultContentLanguage: 'de'
+theme: eternity
+
+params:
+  image: /images/banner.png
+  logo: logo_weiss_quadratisch.png
+  subtitle: ''
+  copyright: All rights reserved.
+  author: Stefanie Blümer
+  dontShowSource: true
+  portfolio:
+    columns:
+      desktop:
+        nature: 4
+        archive: 6
+        people: 2
+        default: 3
+      mobile:
+        default: 2
+        archive: 3
+        people: 1
+  socials:
+    - icon: 'far fa-envelope fa-lg'
+      url: 'mailto:steffi@lights-and-pause.de'
+      landing: true
+    - icon: 'fab fa-instagram fa-lg'
+      url: 'https://instagram.com/asteffib'
+  specialPages:
+    - work
+    - archive
+  bypassWelcomePage: true
+  disableRadius: true
+  moveIt: false  # Moves Title and Meta info down, only visible when scroll.
+  disableAlwaysResize: false
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    renderer:
+      unsafe: true
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  work: ":filename/"
+
+menu:
+  main:
+    - name: work
+      url: /work/
+      weight: 1
+    - name: people
+      url: /tags/people/
+      weight: 2
+    - name: nature
+      url: /tags/nature/
+      weight: 3
+    - name: archive
+      url: /tags/archive/
+      weight: 4
+    - name: about
+      url: /about/
+      weight: 5

@@ -13,14 +13,9 @@ params:
   portfolio:
     columns:
       desktop:
-        nature: 4
-        archive: 6
-        people: 2
         default: 3
       mobile:
         default: 2
-        archive: 3
-        people: 1
   socials:
     - icon: 'far fa-envelope fa-lg'
       url: 'mailto:steffi@lights-and-pause.de'
@@ -53,11 +48,11 @@ menu:
     - name: work
       url: /work/
       weight: 1
-    - name: people
-      url: /tags/people/
+    - name: dogs
+      url: /tags/dogs/
       weight: 2
-    - name: nature
-      url: /tags/nature/
+    - name: tags
+      url: /tags/
       weight: 3
     - name: archive
       url: /tags/archive/

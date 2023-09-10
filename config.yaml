@@ -2,7 +2,7 @@ baseURL: https://lights-and-pause.de
 title: Lights And Pause
 defaultContentLanguage: 'de'
 theme: eternity
-
+timeout: 300s
 params:
   image: /images/banner.png
   logo: logo_weiss_quadratisch.png

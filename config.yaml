@@ -22,9 +22,9 @@ params:
       landing: true
     - icon: 'fab fa-instagram fa-lg'
       url: 'https://instagram.com/asteffib'
-  homepage: /work
+  homepage: /home
   specialPages:
-    - work
+    - home
     - archive
   bypassWelcomePage: true
   disableRadius: true
@@ -45,14 +45,14 @@ permalinks:
 
 menu:
   main:
-    - name: work
-      url: /work/
+    - name: home
+      url: /home/
       weight: 1
-    - name: dogs
-      url: /tags/dogs/
-      weight: 2
     - name: tags
       url: /tags/
+      weight: 2
+    - name: animals
+      url: /tags/animals/
       weight: 3
     - name: archive
       url: /tags/archive/

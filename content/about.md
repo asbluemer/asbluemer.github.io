@@ -1,6 +1,4 @@
 ---
-images:
-- /images/about.png
 title: about
 url: about
 hideTitle: true
@@ -12,4 +10,3 @@ hideDate: true
 	<p>
 	</p>
 </div>
-

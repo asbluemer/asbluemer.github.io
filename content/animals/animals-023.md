@@ -1,0 +1,11 @@
+---
+images:
+- /images/portfolio/IMG_4192_Amy.png
+title: Amy
+date: 2020-01-25
+tags:
+- archive # all posts
+- animals
+- nature
+- home
+---

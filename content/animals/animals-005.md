@@ -1,11 +1,12 @@
 ---
 images:
 - /images/portfolio/IMG001_Tinker_Cowboy.png
-title: Baileys
-date: 2022-07-23 
+title: Ein Cowboy mit seinem Irish Cob
+date: 2019-10-12 
 tags:
 - archive # all posts
 - animals
-- nature
-- home
+- halloween
+- horse
 ---
+auf einem Portfolio Day von Alina Breitenbach fotografiert

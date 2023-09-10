@@ -1,7 +1,7 @@
 ---
 images:
-- /images/portfolio/IMG007_Tinker.png
-title: Tinker vor alter Mauer
+- /images/portfolio/Pony_Stall.png
+title: Pony
 date: 2019-10-12
 tags:
 - archive # all posts

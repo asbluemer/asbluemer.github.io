@@ -1,11 +1,12 @@
 ---
 images:
 - /images/portfolio/IMG005_Paint_Cowboy.png
-title: Baileys
-date: 2022-07-23
+title: Cowboy
+date: 2019-10-12
 tags:
 - archive # all posts
 - animals
 - nature
 - home
 ---
+Ein Cowboy mit seinem Hengst auf einem Portfolio Day von Alina Breitenbach fotografiert

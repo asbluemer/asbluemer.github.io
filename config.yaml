@@ -21,7 +21,7 @@ params:
       url: 'mailto:steffi@lights-and-pause.de'
       landing: true
     - icon: 'fab fa-instagram fa-lg'
-      url: 'https://instagram.com/asteffib'
+      url: 'https://instagram.com/lights_and_pause'
   homepage: /home
   specialPages:
     - home

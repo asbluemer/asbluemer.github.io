@@ -8,7 +8,9 @@ params:
   logo: logo_weiss_quadratisch.png
   subtitle: ''
   copyright: All rights reserved.
-  author: Stefanie Blümer
+  author:
+    name: Stefanie Blümer
+    email: steffi@lights-and-pause.de
   dontShowSource: true
   portfolio:
     columns:

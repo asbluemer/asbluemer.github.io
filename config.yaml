@@ -43,7 +43,7 @@ taxonomies:
   tag: tags
 
 permalinks:
-  work: ":filename/"
+  work: ":contentbasename/"
 
 menu:
   main:
